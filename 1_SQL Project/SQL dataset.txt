@@ -1,0 +1,3 @@
+SQL Project:
+BigQuery Export schema
+table: ga_session
